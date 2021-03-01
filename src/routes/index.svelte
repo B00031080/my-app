@@ -16,7 +16,7 @@
 <h2 class="bg-blue-300">I can easily develop locally and then push this online.</h2>
 
 <figure>
-	<img alt="Success Kid" src="{successkid}">
+	<img alt="Success Kid" src="/sad.jpeg">
 	<figcaption>Have fun with Sapper!</figcaption>
 </figure>
 
