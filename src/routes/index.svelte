@@ -12,7 +12,7 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>Great success after a lot of work.!</h1>
+<h1>Great success!</h1>
 <h2 class="bg-blue-300">I can easily develop locally and then push this online.</h2>
 
 <figure>
